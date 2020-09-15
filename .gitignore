@@ -214,10 +214,5 @@ fabric.properties
 # https://plugins.jetbrains.com/plugin/12206-codestream
 .idea/codestream.xml
 
-404-not-found-master.iml
-codeStyleConfig.mxl
-dbnavigator.xml
-modules.xml
-Project.xml
-vcs.xml
-workspace.xml
+*iml
+*.xml
