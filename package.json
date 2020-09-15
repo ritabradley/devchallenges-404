@@ -1,0 +1,16 @@
+{
+  "name": "404-not-found",
+  "version": "0.0.1",
+  "description": "My solution for the 404 page challenge @devchallenges.io",
+  "main": "index.js",
+  "repository": "git@github.com:ritabradley/devchallenges-404.git",
+  "author": "Rita Bradley <contact@ritabradley.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "live-server --port=5050"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
