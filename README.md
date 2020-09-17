@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://placid-detail.surge.sh">
       Demo
     </a>
     <span> | </span>
@@ -26,32 +26,24 @@
 
 ## Table of Contents
 
-- [Overview](#overview)
-  - [Built With](#built-with)
-- [Features](#features)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+-   [Overview](#overview)
+    -   [Built With](#built-with)
+-   [Features](#features)
+-   [Contact](#contact)
 
 <!-- OVERVIEW -->
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://res.cloudinary.com/ritalbradley/image/upload/v1600303960/404_screenshot.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+-   The demo for this challenge can be seen [here](https://placid-detail.surge.sh).
+-   My experience with this challenge was pretty pleasant. This was a simple project to brush up on my HTML and CSS skills. I used Tailwind CSS in order to not write any custom CSS, and to make production time shorter since it is a smaller project.
+-   While working on this challenge, I got to work on taking a mobile-first approach to responsive development. I normally get projects that are designed at desktop size only and then I'm left to figure out graceful degradation, so this was a nice change.
 
 ### Built With
 
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+-   [Tailwind](https://tailwindcss.com/)
 
 ## Features
 
@@ -59,17 +51,8 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
 
-
-## Acknowledgements
-
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+-   Website [ritabradley.dev](https://ritabradley.dev)
+-   GitHub [@ritabradley](https://github.com/ritabradley)
+-   Twitter [@rita_l_bradley](https://twitter.com/rita_l_bradley)
