@@ -20,19 +20,23 @@
 
     </head>
 
-    <body class="font-body m-4">
-        <header class="flex justify-start align-center">
-            <a href="#" class="text-2xl no-underline font-display uppercase">404 Not Found</a>
+    <body class="font-body flex flex-col min-h-screen m-4">
+        <header>
+            <a href="#" class="font-display text-2xl no-underline uppercase">404 Not Found</a>
         </header>
-        <main class="flex flex-col justify-center items-center mb-20"><img class="my-16 w-4/5" src="Scarecrow.png"
-                alt="404 Scarecrow">
+        <main
+            class="md:flex-row md:justify-between md:mx-12 md:mb-0 flex flex-col items-center justify-center flex-1 mb-20">
+            <img class="md:w-2/5 md:mr-12 w-4/5 my-16" src="Scarecrow.png" alt="404 Scarecrow">
             <section>
-                <h1 class="text-5xl font-bold">I have bad news for you</h1>
-                <p class="text-lg py-12">The page you are looking for might be removed or is temporarily unavailable</p>
+                <h1 class="md:text-6xl text-5xl font-bold">I have bad news for you</h1>
+                <p class="md:text-2xl w-3/4 py-12 text-lg">The page you are looking for might be removed or is
+                    temporarily unavailable</p>
+                <button class="bg-primary px-10 py-6 text-sm text-white uppercase">Back To Homepage</button>
             </section>
-            <button class="self-start bg-primary text-white py-6 px-10 uppercase text-sm">Back To Homepage</button>
+
         </main>
-        <footer class="text-center font-footer text-sm">Rita Bradley @ DevChallenges.io</footer>
+        <footer class="font-footer my-4 text-sm text-center">Rita Bradley @
+            DevChallenges.io</footer>
     </body>
 
 </html>
