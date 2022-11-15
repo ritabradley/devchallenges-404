@@ -28,3 +28,17 @@ header a {
 	text-decoration: none;
 	text-transform: uppercase;
 }
+
+main {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+    flex-direction: column;
+    flex: 1;
+	margin-bottom: 8rem;
+}
+
+img {
+	width: 80vw;
+	margin: 6.4rem 0;
+}
