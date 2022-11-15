@@ -1,0 +1,22 @@
+@import url(https://fonts.bunny.net/css?family=inconsolata:700|montserrat:600|space-mono:400,700);
+
+:root {
+	font-size: 62.5%;
+	--font-body: "Space Mono", monospace;
+	--font-display: "Inconsolata", monospace;
+	--font-footer: "Montserrat", sans-serif;
+}
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	display: flex;
+	flex-direction: column;
+	font-family: var(--font-body);
+	margin: 1.6rem;
+	min-height: 100vh;
+}
